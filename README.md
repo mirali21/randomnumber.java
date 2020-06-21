@@ -1,2 +1,0 @@
-# randomnumber.java
-# randomnumber.java
